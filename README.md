@@ -21,11 +21,9 @@ Este proyecto es un simulador básico de una máquina tragamonedas (slot machine
 ## ▶️ Cómo compilar y ejecutar
 
 1. Compila el proyecto:
+g++ -std=c++11 main.cpp SlotMachine.cpp Reel.cpp Symbol.cpp -o slot_machine.exe
 
-```bash
- g++ -std=c++11 main.cpp SlotMachine.cpp Reel.cpp Symbol.cpp -o slot_machine.exe
-
-2. Ejecuta 
+3. Ejecuta 
 ./slotmachine
 
 ## ✅ Combinaciones ganadoras
