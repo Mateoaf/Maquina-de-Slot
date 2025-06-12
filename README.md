@@ -12,12 +12,11 @@ Este proyecto es un simulador básico de una máquina tragamonedas (slot machine
 
 ## 🏗️ Estructura del Proyecto
 
-├── main.cpp
-├── Symbol.h / Symbol.cpp
-├── Reel.h / Reel.cpp
-├── SlotMachine.h / SlotMachine.cpp
-└── README.md
-
+- main.cpp
+- Symbol.h / Symbol.cpp
+- Reel.h / Reel.cpp
+- SlotMachine.h / SlotMachine.cpp
+- README.md
 
 ## ▶️ Cómo compilar y ejecutar
 
